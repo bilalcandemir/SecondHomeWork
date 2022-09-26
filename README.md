@@ -1,4 +1,5 @@
 # SecondHomeWork
 Bootcamp session second homework.
 
-![Simulator Screen Shot - iPhone 13 Pro - 2022-09-26 at 15 36 30](https://user-images.githubusercontent.com/38655492/192277823-37edf36e-282a-45d0-9781-fabe7ed219b3.png)
+
+<img width="203" alt="Ekran Resmi 2022-09-26 ÖS 3 38 35" src="https://user-images.githubusercontent.com/38655492/192278046-0ceae18e-6e97-4115-a6a9-e003ba44c29b.png">
